@@ -1,6 +1,8 @@
 ---
 title: "template2"
+subtitle: "this is template 2"
 ---
+![](images/landscape.png)
 
 This is a Quarto website.
 
